@@ -1,1 +1,1 @@
-# Predictive-engine-for-stock-market
+# Intelligence in Market News Aggregation
